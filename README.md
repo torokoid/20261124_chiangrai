@@ -269,7 +269,7 @@ p.note { display: none; }
 <h2><span class="yellow">お人形さん運搬中ですが、空気抜けばいいのに？</span></h2>
 <a href="20261124_00029.jpeg" target="_blank"><img src="20261124_00029.jpeg" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">直進と右折を青にする、タイ特有の信号システム。対向車は止まってるので右折がスムーズ</span></h2>
+<h2><span class="yellow">直進と右折を青にする、タイ特有の信号システム。対向車側は赤信号なので右折がスムーズ</span></h2>
 <a href="20261124_00030.jpeg" target="_blank"><img src="20261124_00030.jpeg" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">山々が道路の先に迫ります</span></h2>
